@@ -2,15 +2,7 @@
     width: 100%;
     height: 500px;
 }
-
-
-/*.imgicon{
-	width: 5px;
-	height:5px;
-}*/
-
-.captiond h1,
-p {
+.captiond h1,p {
     font-color: lightblue;
 }
 
@@ -35,11 +27,9 @@ p {
 
 .fa {
     padding: 20px;
-    font-size: 30px;
     width: 50px;
-    text-align: center;
     text-decoration: none;
-    margin: 5px 2px;
+    height: 20px;
 }
 
 .fa:hover {
@@ -83,4 +73,7 @@ p {
 }
 .para img {
     margin-top:50px;
+}
+.upSpace{
+    margin-top: 10px;
 }
